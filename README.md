@@ -1,2 +1,2 @@
 # MyCV
-https://github.com/pranay928/MyCV/blob/master/MyCV.html
+https://roadmap.sh/projects/single-page-cv
